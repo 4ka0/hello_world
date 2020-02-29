@@ -1,3 +1,2 @@
 Very basic hello world app.</br>
-From Django for Beginners by William Vincent.</br>
-(https://djangoforbeginners.com/)
+Based on a tutorial from Django for Beginners by William S. Vincent.
